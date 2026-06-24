@@ -3,3 +3,7 @@ The idea came from Pinterest. While scrolling, I saw a beautiful pink heart and 
 
 To bring this to life, I used AI to help me understand the logic and the mathematical equations behind the shape.
 It was a great learning experience, and I'm really satisfied with the result!
+
+## Preview
+![Heart Art](Screenshot(1148).png)
+
