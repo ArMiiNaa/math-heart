@@ -5,5 +5,5 @@ To bring this to life, I used AI to help me understand the logic and the mathema
 It was a great learning experience, and I'm really satisfied with the result!
 
 ## Preview
-![Heart Art](Screenshot(1148).png)
+![Heart Art](heart.png)
 
