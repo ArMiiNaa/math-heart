@@ -2,7 +2,7 @@ import math
 from turtle import *
 
 
-speed(10000) # 
+speed(10000) 
 bgcolor('black')
 color('#f73487') 
 
